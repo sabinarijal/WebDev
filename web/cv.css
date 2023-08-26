@@ -1,0 +1,172 @@
+
+*{
+    margin: 0;
+    padding: 0;
+  }
+  .profile{
+    font-family:serif;
+    background-color: #6c999a;
+    width: 200px;
+    height: 650px;
+    color: #ffffff;
+    font-size: 23px;
+    padding-top: 55px;
+    padding-left: 15px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+
+  }
+  .prof{
+    padding-bottom: 9px;
+  }
+ 
+  
+  .details{
+    font-family:serif;
+    font-weight: lighter;
+    font-size: 13px;
+    line-height: 30px;
+  }
+  .details1{
+    font-family:serif;
+    font-weight: lighter;
+    font-size: 13px;
+    line-height: 30px;
+
+  }
+  .ref{
+    font-size: 22px;
+    font-family: serif;
+    padding-top: 80%;
+    padding-bottom: 5px;
+ }
+ .refo{
+    font-family:serif;
+    font-weight: lighter;
+    font-size: 13px;
+    line-height: 50px;
+
+ }
+.bg1{
+    background-color: #ebcbbb;
+    height: 140px;
+    padding-top: 50px;
+    width: 100%;
+}
+
+.main{
+    margin-left: 300px;
+    margin-top: -700px;
+}
+.name{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    margin-left: 270px;
+
+}
+.student{
+    font-size: 18px;
+    font-family:cursive;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    margin-left: 270px;
+
+
+}
+.education{
+    padding-top: 50px;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding-bottom: 10px;
+}
+.bachelors{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.course{
+    font-size: 15px;
+    font-family:cursive;
+    padding-bottom: 5px;
+}
+.date{
+    font-size: 13px;
+    font-family:cursive;
+}
+.plus2{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-top: 10px;
+
+}
+.fac{
+    font-size: 15px;
+    font-family:cursive;
+    padding-bottom: 5px;
+}
+.date1{
+    font-size: 13px;
+    font-family:cursive;
+}
+.see{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+.date2{
+    font-size: 13px;
+    font-family:cursive;
+}
+.language{
+    padding-top: 30px;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding-bottom: 10px;
+}
+.firstlang{
+    padding-bottom: 2px;
+    font-family: cursive;
+
+}
+.seclang{
+    font-family: cursive;
+
+}
+.experience{
+    padding-top: 30px;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding-bottom: 10px;
+}
+.exp{
+    padding-bottom: 2px;
+    font-family: cursive;
+}
+.skill{
+    padding-top: 30px;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.skill1{
+    font-family: cursive;
+}
+.skill1 ul{
+    list-style-type: none;
+    padding: 0;
+}
+.skill1 ul li{
+    padding: 2px;
+}
